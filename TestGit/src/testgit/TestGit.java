@@ -19,5 +19,7 @@ public class TestGit {
         
         printClass.PrintMethod();
         int c = 5 ;
+        int b = 0;
+        //
     }
 }
