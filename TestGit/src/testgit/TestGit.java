@@ -18,5 +18,6 @@ public class TestGit {
         TestClass printClass = new TestClass();
         
         printClass.PrintMethod();
+        int c = 5 ;
     }
 }
